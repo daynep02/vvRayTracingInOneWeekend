@@ -4,7 +4,7 @@
 An implementation of Ray Tracing In One Weekend in the V programming language
 
 ## Final image
-![](image.ppm)
+![](./image.ppm)
 
 
 ## Inspiration
